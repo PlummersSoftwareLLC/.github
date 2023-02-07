@@ -1,4 +1,4 @@
-# Welcome to Dave's Garage's source!
+# Welcome to Dave's Garage's sources!
 
 Yes, you've found the place on GitHub with the source code for the [Dave's Garage](https://www.youtube.com/@DavesGarage) channel on YouTube!
 
