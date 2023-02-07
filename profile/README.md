@@ -1,6 +1,6 @@
-# Welcome to PlummersSoftwareLLC!
+# Welcome to Dave's Garage's source!
 
-Yes, you've found the place on GitHub with the source code for [Dave's Garage](https://www.youtube.com/@DavesGarage) on YouTube!
+Yes, you've found the place on GitHub with the source code for the [Dave's Garage](https://www.youtube.com/@DavesGarage) channel on YouTube!
 
 [![Dave's Garage](https://github.com/PlummersSoftwareLLC/.github/blob/main/assets/channelbanner.jpg?raw=true)](https://www.youtube.com/@DavesGarage)
 
