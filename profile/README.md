@@ -7,3 +7,13 @@ Yes, you've found the place on GitHub with the source code for the [Dave's Garag
 Please feel free to browse through the repositories available here, and clone whatever you'd like to try. And, if you see a project you'd like to contribute to, then you're invited to do that too.
 
 Have fun and happy exploring!
+
+## Recent videos with source code
+
+| Video | Title | Repository |
+|-|-|-|
+| [![How PONG Works: From Schematic to PCB to Console](https://img.youtube.com/vi/iF7lo0vU_WI/default.jpg)](https://youtu.be/iF7lo0vU_WI) | [How PONG Works: From Schematic to PCB to Console](https://youtu.be/iF7lo0vU_WI) | [PongPCB](https://github.com/PlummersSoftwareLLC/PongPCB) |
+| [![LED Laser Cannon: From Power Supply to the C++ Code](https://img.youtube.com/vi/1hYmpztMQe0/default.jpg)](https://youtu.be/1hYmpztMQe0) | [LED Laser Cannon: From Power Supply to the C++ Code](https://youtu.be/1hYmpztMQe0) | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) |
+| [![Stupid C Tricks: Unsafe Functions You MUST Avoid!](https://img.youtube.com/vi/Qyn1qxi73u8/default.jpg)](https://youtu.be/Qyn1qxi73u8) | [Stupid C Tricks: Unsafe Functions You MUST Avoid!](https://youtu.be/Qyn1qxi73u8) | [StupidC-04](https://github.com/PlummersSoftwareLLC/StupidC-04) |
+| [![C vs ASM: Making the World's SMALLEST Windows App](https://img.youtube.com/vi/-Vw-ONPfaFk/default.jpg)](https://youtu.be/-Vw-ONPfaFk) | [C vs ASM: Making the World's SMALLEST Windows App](https://youtu.be/-Vw-ONPfaFk) | [HelloAssembly](https://github.com/PlummersSoftwareLLC/HelloAssembly) |
+<!--| [![<title>](https://img.youtube.com/vi/<id>/default.jpg)](https://youtu.be/<id>) | [<title>](https://youtu.be/<id>) | [<repo>](https://github.com/PlummersSoftwareLLC/<repo>) |-->
