@@ -10,8 +10,9 @@ Have fun and happy exploring!
 
 ## Recent videos with source code
 
-| Video | Title | Repository |
+| Video | Title | Repositories |
 |-|-|-|
+| [![10X Your Code with ChatGPT: How to Use it Effectively](https://img.youtube.com/vi/pspsSn_nGzo/default.jpg)](https://youtu.be/pspsSn_nGzo) | [10X Your Code with ChatGPT: How to Use it Effectively](https://youtu.be/pspsSn_nGzo) | [ChatGPTCode](https://github.com/PlummersSoftwareLLC/ChatGPTCode), [Primes](https://github.com/PlummersSoftwareLLC/Primes) |
 | [![How PONG Works: From Schematic to PCB to Console](https://img.youtube.com/vi/iF7lo0vU_WI/default.jpg)](https://youtu.be/iF7lo0vU_WI) | [How PONG Works: From Schematic to PCB to Console](https://youtu.be/iF7lo0vU_WI) | [PongPCB](https://github.com/PlummersSoftwareLLC/PongPCB) |
 | [![LED Laser Cannon: From Power Supply to the C++ Code](https://img.youtube.com/vi/1hYmpztMQe0/default.jpg)](https://youtu.be/1hYmpztMQe0) | [LED Laser Cannon: From Power Supply to the C++ Code](https://youtu.be/1hYmpztMQe0) | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) |
 | [![Stupid C Tricks: Unsafe Functions You MUST Avoid!](https://img.youtube.com/vi/Qyn1qxi73u8/default.jpg)](https://youtu.be/Qyn1qxi73u8) | [Stupid C Tricks: Unsafe Functions You MUST Avoid!](https://youtu.be/Qyn1qxi73u8) | [StupidC-04](https://github.com/PlummersSoftwareLLC/StupidC-04) |
