@@ -12,9 +12,9 @@ Have fun and happy exploring!
 
 | Video | Title | Repositories |
 |-|-|-|
+| [![Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared!](https://img.youtube.com/vi/pSvSXBorw4A/default.jpg)](https://youtu.be/pSvSXBorw4A) | [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared!](https://youtu.be/pSvSXBorw4A) | [Primes](https://github.com/PlummersSoftwareLLC/Primes) |-->
 | [![10X Your Code with ChatGPT: How to Use it Effectively](https://img.youtube.com/vi/pspsSn_nGzo/default.jpg)](https://youtu.be/pspsSn_nGzo) | [10X Your Code with ChatGPT: How to Use it Effectively](https://youtu.be/pspsSn_nGzo) | [ChatGPTCode](https://github.com/PlummersSoftwareLLC/ChatGPTCode), [Primes](https://github.com/PlummersSoftwareLLC/Primes) |
 | [![How PONG Works: From Schematic to PCB to Console](https://img.youtube.com/vi/iF7lo0vU_WI/default.jpg)](https://youtu.be/iF7lo0vU_WI) | [How PONG Works: From Schematic to PCB to Console](https://youtu.be/iF7lo0vU_WI) | [PongPCB](https://github.com/PlummersSoftwareLLC/PongPCB) |
 | [![LED Laser Cannon: From Power Supply to the C++ Code](https://img.youtube.com/vi/1hYmpztMQe0/default.jpg)](https://youtu.be/1hYmpztMQe0) | [LED Laser Cannon: From Power Supply to the C++ Code](https://youtu.be/1hYmpztMQe0) | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) |
 | [![Stupid C Tricks: Unsafe Functions You MUST Avoid!](https://img.youtube.com/vi/Qyn1qxi73u8/default.jpg)](https://youtu.be/Qyn1qxi73u8) | [Stupid C Tricks: Unsafe Functions You MUST Avoid!](https://youtu.be/Qyn1qxi73u8) | [StupidC-04](https://github.com/PlummersSoftwareLLC/StupidC-04) |
-| [![C vs ASM: Making the World's SMALLEST Windows App](https://img.youtube.com/vi/-Vw-ONPfaFk/default.jpg)](https://youtu.be/-Vw-ONPfaFk) | [C vs ASM: Making the World's SMALLEST Windows App](https://youtu.be/-Vw-ONPfaFk) | [HelloAssembly](https://github.com/PlummersSoftwareLLC/HelloAssembly) |
 <!--| [![<title>](https://img.youtube.com/vi/<id>/default.jpg)](https://youtu.be/<id>) | [<title>](https://youtu.be/<id>) | [<repo>](https://github.com/PlummersSoftwareLLC/<repo>) |-->
