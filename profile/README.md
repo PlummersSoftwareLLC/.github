@@ -12,9 +12,9 @@ Have fun and happy exploring!
 
 | Video | Title | Repositories |
 |-|-|-|
+| [![Can I Freeze a Fan in Time with its RGB Light?](https://img.youtube.com/vi/BQIkyfpbUao/default.jpg)](https://youtu.be/BQIkyfpbUao) | [Can I Freeze a Fan in Time with its RGB Light?](https://youtu.be/BQIkyfpbUao) | [FanFreezer](https://github.com/PlummersSoftwareLLC/FanFreezer) |
 | [![Ultimate LED Tech - Everything You Need to Know about ARGB LED Technology](https://img.youtube.com/vi/gHsJP5br_ok/default.jpg)](https://youtu.be/gHsJP5br_ok) | [Ultimate LED Tech - Everything You Need to Know about ARGB LED Technology](https://youtu.be/gHsJP5br_ok) | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) |
 | [![How VFDs Work and How to Add a VFD Monitor to your PC](https://img.youtube.com/vi/Djeir8s-YMc/default.jpg)](https://youtu.be/Djeir8s-YMc) | [How VFDs Work and How to Add a VFD Monitor to your PC](https://youtu.be/Djeir8s-YMc) | [SerialVFD](https://github.com/PlummersSoftwareLLC/SerialVFD) |-->
 | [![Ultimate LED Effects: New Software and Hardware!](https://img.youtube.com/vi/COJnlehBcKw/default.jpg)](https://youtu.be/COJnlehBcKw) | [Ultimate LED Effects: New Software and Hardware!](https://youtu.be/COJnlehBcKw) | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) |
 | [![TESTED: Altair 8800 vs AMD Threadripper: Which is Faster?](https://img.youtube.com/vi/6EBLDzGMYyc/default.jpg)](https://youtu.be/6EBLDzGMYyc) | [TESTED: Altair 8800 vs AMD Threadripper: Which is Faster?](https://youtu.be/6EBLDzGMYyc) | [Primes](https://github.com/PlummersSoftwareLLC/Primes) |
-| [![Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared!](https://img.youtube.com/vi/pSvSXBorw4A/default.jpg)](https://youtu.be/pSvSXBorw4A) | [Top 5 Fastest Programming Languages: Rust, C++, Swift, Java, and 90 more compared!](https://youtu.be/pSvSXBorw4A) | [Primes](https://github.com/PlummersSoftwareLLC/Primes) |
 <!--| [![<title>](https://img.youtube.com/vi/<id>/default.jpg)](https://youtu.be/<id>) | [<title>](https://youtu.be/<id>) | [<repo>](https://github.com/PlummersSoftwareLLC/<repo>) |-->
