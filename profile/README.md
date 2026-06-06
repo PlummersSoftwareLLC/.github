@@ -12,7 +12,7 @@ Have fun and happy exploring!
 
 | Video | Title | Repositories |
 | - | - | - |
-| [![Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.](https://img.youtube.com/vi/ZbZozyGTlKA/default.jpg)](https://youtu.be/ZbZozyGTlKA) | [Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.(https://youtu.be/ZbZozyGTlKA) | [ArcadeAI](https://github.com/PlummersSoftwareLLC/ArcadeAI) |
+| [![Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.](https://img.youtube.com/vi/ZbZozyGTlKA/default.jpg)](https://youtu.be/ZbZozyGTlKA) | [Robotron Was Supposed to Be Humanly Impossible. So I Built an AI to Break It.](https://youtu.be/ZbZozyGTlKA) | [ArcadeAI](https://github.com/PlummersSoftwareLLC/ArcadeAI) |
 | [![My Custom AI Went Superhuman Yesterday...](https://img.youtube.com/vi/TdbpoDjIvPk/default.jpg)](https://youtu.be/TdbpoDjIvPk) | [My Custom AI Went Superhuman Yesterday...](https://youtu.be/TdbpoDjIvPk) | [ArcadeAI](https://github.com/PlummersSoftwareLLC/ArcadeAI) |
 | [![Microsoft “Improved” Notepad. I Un-Improved It.](https://img.youtube.com/vi/bmBd39OwvWg/default.jpg)](https://youtu.be/bmBd39OwvWg) | [Microsoft “Improved” Notepad. I Un-Improved It.](https://youtu.be/bmBd39OwvWg) | [retropad](https://github.com/PlummersSoftwareLLC/retropad) |
 | [![Cool LED Plate Frame: How it Works, and IS IT LEGAL?](https://img.youtube.com/vi/Hjcdn35lPeo/default.jpg)](https://youtu.be/Hjcdn35lPeo) | [Cool LED Plate Frame: How it Works, and IS IT LEGAL?](https://youtu.be/Hjcdn35lPeo) | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) |
